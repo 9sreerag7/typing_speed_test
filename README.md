@@ -40,4 +40,3 @@ Check out the project online: [Typing Speed Test](http://9sreerag7.github.io/typ
 - The application is user-friendly and designed for all skill levels.
 - It helps improve typing speed and accuracy through practice.
 - The main timer stops as soon as you've entered the full passage length—even with mistakes—so you can fix typos without the clock running.
-
