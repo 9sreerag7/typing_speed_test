@@ -39,12 +39,3 @@ typing-speed-test-app
 - It helps improve typing speed and accuracy through practice.
 - The main timer stops as soon as you've entered the full passage length—even with mistakes—so you can fix typos without the clock running.
 
-## Development
-- If you want to lint the JavaScript, you can run JSHint without a project config:
-
-	```powershell
-	npx jshint --esversion 2020 app.js
-	```
-
-## License
-This project is open-source and available for anyone to use and modify.
