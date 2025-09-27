@@ -20,6 +20,8 @@ typing-speed-test-app
 ├── app.js       # JavaScript logic
 └── README.md    # Documentation for the project
 ```
+## Live Demo
+Check out the project online: [Typing Speed Test](http://9sreerag7.github.io/typing_speed_test/)
 
 ## Getting Started
 
